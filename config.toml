@@ -9,5 +9,5 @@ parallel-jobs = 1
 [TikTok]
 enabled = true
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
-apkmirror-dlurl = ""https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/
+apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 included-patches = "'SIM spoof'"
